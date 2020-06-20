@@ -4,6 +4,8 @@ Elucid Mhealth
 ### Software Developer
 #### July 2016 - Feb 2020
 
+Chiefly responsible for working on the Android app (and frequently collaborating with another developer whose responsibilities sometimes included android work), however I had a myriad of other roles and responbilities
+
 * Developed Android app from prototype to robust product. 
   Rewrote legacy and prototype code to include null safety, fallback conditions and comprehensive logging.
 * Wrote the reference implementation for our product's driver as a standalone JVM library,
