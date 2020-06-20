@@ -14,6 +14,7 @@ Elucid Mhealth
 * Wrote a fault-tolerant high-level network protocol to exchange data that our central server and app instances each generated.
   This design was reused on other platforms.
 * Proactively maintained Android app over time by migrating the codebase to newer technology stacks & APIs such as Kotlin, Job Scheduler and Room.
+* Wrote local regression tests using Mockito and JUnit, and end-to-end tests using the UI automation framework Espresso
 
 Responsibilities were not limited to Android app Development:
 
